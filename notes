@@ -17,3 +17,6 @@ pg. 72
 pg. 104
     figure 9.2 is not a pentagon, it's a trapezoid
     
+pg. 106
+    every element in list is not incremented
+    should be (hd + 1) :: increment(tl)
