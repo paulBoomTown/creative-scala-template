@@ -1,0 +1,17 @@
+|pg. 12
+|    run Example.image.draw
+|    control c to exit
+|pg. 17
+|    in the terminal need to be in scala console by typing scala
+|        control c to exit
+-----------------------
+|-> just need to run ./sbt.sh then console
+    to exit console :q or ctrl d
+
+pg. 68
+    figure 7.2 should be boxes stacked vertically?
+
+pg. 72
+    Chessboard - says the skeleton ISN'T...but it is!
+
+
