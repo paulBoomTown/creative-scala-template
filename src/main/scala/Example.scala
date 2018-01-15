@@ -6,7 +6,7 @@ import doodle.backend.StandardInterpreter._
 
 // To use this example, open the SBT console and type:
 //
-// run Example.image.draw
+// Example.image.draw
 object Example {
   val image = circle(10).fillColor(Color.red) on circle(20) on circle(30)
 
